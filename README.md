@@ -14,7 +14,7 @@ de notebooks jupyter qui ne nécessite aucune configuration et permet d'accéder
 La base de données est composé de 599 images de différentes espèces de tortues
 Le fichier Apprentissage/Train_YoloV3_masque_.ipynb contient les étapes à suivre pour créer votre propre base de données.
 
-Lien de téléchargement  de la BD :
+Lien de téléchargement  de la BD :            
 https://drive.google.com/file/d/1z16Pf0XZ_pMjEyQHdrUQ1iHL6wSFM03P/view?usp=sharing       Taille :  189 Mo
 
 Étape 2 : Apprentissage.
@@ -23,7 +23,7 @@ Détaillé dans le fichier Apprentissage/Train_YoloV3_masque_.ipynb
 Étape 3 : Tester le modèle entraîné.
 Détaillé dans le fichier Tester_Le_Modele/testmasque.py
 
-Lien de téléchargement du fichier yolov3_training_last_masque.weights   : 
+Lien de téléchargement du fichier yolov3_training_last_masque.weights   :           
 https://drive.google.com/file/d/1-W6eT3N0BHjmM5s8yJvhaVIVqOMP02JP/view?usp=sharing      Taille : 235 Mo
 
 
