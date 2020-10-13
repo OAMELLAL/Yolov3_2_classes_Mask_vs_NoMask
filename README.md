@@ -1,7 +1,7 @@
 # La détection automatique du port du masque
 Entraîner votre modèle à détecter deux classes avec YOLOv3, Deep learning, Opencv, Google Colab
 
-Tutoriel détaillé pour entraîner votre modèle à détecter deux classe ( port ou non du masque) avec YOLO version 3 
+Tutoriel détaillé pour entraîner votre modèle à détecter deux classes ( port ou non du masque) avec YOLO version 3 
 (YOLO est un réseau qui utilise des algorithmes d'apprentissage profond (Deep Learning) 
 pour la détection d'objets.
 
