@@ -18,7 +18,7 @@ Original file is located at
 """**0) Préparation de la base de données**"""
 
 # Ajouter vos images sélectionnées dans un dossier appelé 'imagesmasque' par exemple
-# Télécharger la dernière version de  labelImg (v1.8.0 pour windows) : https://tzutalin.github.io/labelImg/ 
+# Télécharger la dernière version de  labelImg (v1.8.0 pour windows) : https://github.com/heartexlabs/labelImg/releases
 # 1. Extraire le fichier .Zip téléchargé
 # 2. Cherchez un dossier nommé 'data' ce dossier contient le fichier 'predefined_classes' ouvrez ce fichier pour le modifier.
 # supprimez les noms de classes présentes dans le fichier et ajoutez les noms de vos classes dans notre exemple on détecte
